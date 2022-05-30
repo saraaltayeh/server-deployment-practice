@@ -2,7 +2,7 @@
 const express = require('express');
 const stamper = require('../middlewares/stamper');
 const notFoundHandler = require('../handlers/ 404');
-const errorHandler = require('../handlers/500');
+const errorHandler = require('../handlers/505');
 
 const app = express();
 
