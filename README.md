@@ -8,7 +8,9 @@
 
 ## links related to lab 1
 
-[heroku app](https://sara-server-deploy-prod.herokuapp.com/)
+[heroku app - main](https://sara-server-deploy-prod.herokuapp.com/)
+
+[heroku app - branch](https://saraaltayeh-server-deploy-dev.herokuapp.com/)
 
 [Actions](https://github.com/saraaltayeh/server-deployment-practice/actions)
 
